@@ -267,6 +267,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1190943809}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec247a1dc1cac4e02954e6533ebdee03, type: 3}
+  m_Script: {fileID: 11500000, guid: b4c7a38bd072745559fb3c71a9504e3b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  coffeeTemperature: 85
+  hotLimitTemperature: 70
+  coldLimitTemperature: 40
